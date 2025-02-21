@@ -1,4 +1,4 @@
-Introduction
+#Introduction
 This is a Java-based Online Voting System application. It provides a platform for conducting online voting for various purposes such as elections, surveys, or polls. The system allows users to register, log in, cast votes, and view the results.
 
 Features
